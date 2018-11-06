@@ -1,0 +1,12 @@
+Nov 06, 2018 9:33:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 06, 2018 9:33:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+Nov 06, 2018 9:33:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Nov 06, 2018 9:39:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Nov 06, 2018 9:39:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: start: Starting web application '/jenkins'
+Nov 06, 2018 9:39:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
